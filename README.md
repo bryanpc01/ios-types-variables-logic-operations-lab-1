@@ -35,8 +35,11 @@ let grade: Char = "a"
 ## 3. Simplify the following using a calculator:
 
 1 + 4 * 2 / 2 + 2
+
 1 + **8** / 2 + 2
+
 1 + **4** + 2
+
 7
 
 ***

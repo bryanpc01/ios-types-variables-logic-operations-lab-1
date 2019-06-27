@@ -26,10 +26,11 @@ let emotion: String = ":)"
 let grade: Char = "a"
 ```
 
+*Bool*, *Double*, *String* are all valid data types. If **Char** was changed to *Character* it would be a valid type too.
+
 ```swift
 let grade: Char = "a"
-```
-*Bool*, *Double*, *String* are all valid data types. If **Char** was changed to *Character* it would be a valid type too. 
+``` 
 
 ***
 ## 3. Simplify the following using a calculator:
